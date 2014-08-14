@@ -1,2 +1,2 @@
 helloworld: hello.c
-	gcc helloworld.c
+	gcc hello.c
