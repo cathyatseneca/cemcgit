@@ -2,5 +2,6 @@
 #includeO
 int main(void){
     printf("hello world\n");
+    printf("bye bye\n");
     return 0;
 }
