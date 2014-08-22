@@ -1,2 +1,2 @@
-helloworld: hello.c
+all: hello.c
 	gcc hello.c

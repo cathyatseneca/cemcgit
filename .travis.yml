@@ -1,5 +1,9 @@
 language: c
 compiler:
   - gcc
+<<<<<<< HEAD
+=======
+  - clang
+>>>>>>> d511a40026a660f3477d3e9893b54548a7d499c9
 # Change this to your needs
 script: make
